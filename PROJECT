@@ -1,0 +1,7 @@
+domain: my.domain
+repo: kubedemo
+resources:
+- group: security.anthos.io
+  kind: WorkloadGroup
+  version: v1alpha1
+version: "2"
